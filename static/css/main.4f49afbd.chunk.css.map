@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Autocomplete/Autocomplete.scss","webpack://src/App.scss"],"names":[],"mappings":"AAAA,YACE,WAAY,CACZ,eAAgB,CCFlB,OACE,YAAa","file":"main.4f49afbd.chunk.css","sourcesContent":[".suggestion {\n  border: none;\n  border-radius: 0;\n}\n","iframe {\n  display: none;\n}\n"]}
